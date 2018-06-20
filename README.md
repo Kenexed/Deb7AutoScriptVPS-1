@@ -1,4 +1,4 @@
-# Deb7AutoScriptVPS
+# Deb7AutoScriptVPS or Deb8AutoScriptVPS
 
 Deb7AutoScriptVPS is made by Shigeno to minimize the time consumed and user involvement in setting up your VPS
 
