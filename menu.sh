@@ -3,14 +3,7 @@
 
 clear
 echo -e "                                                        "
-echo -e "\e[94m   :::::::::  :::::::::: :::::::::  :::::::::::   "
-echo -e "\e[94m   :+:    :+: :+:        :+:    :+: :+:     :+:   "
-echo -e "\e[94m   +:+    +:+ +:+        +:+    +:+        +:+    "
-echo -e "\e[94m   #+     +:+ +#++:++#   +#++:++#+        +#+     "
-echo -e "\e[94m   +#+    +#+ +#+        +#+    +#+      +#+      "
-echo -e "\e[94m   #+#    #+# #+#        #+#    #+#     #+#       "
-echo -e "\e[94m   #########  ########## #########      ###       "
-echo -e "\e[94m         Deb7AutoScriptVPS by Shigeno          "
+echo -e "\e[94m         Deb7AutoScriptVPS by Kenexed             "
 echo -e "\e[0m                                                   "
 echo -e "                                                        "
 echo -e "\e[94m##################################################"
